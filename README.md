@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Eshrak Solkar
 
-### Full Stack Developer • AI Enthusiast • Data Analytics Learner
+### Full Stack Developer • Cloud Enthusiast • FrontEnd Developer 
 
 Building software that combines clean design, intelligent automation, and scalable backend systems.
 
@@ -26,18 +26,13 @@ class EshrakSolkar:
     location = "Mumbai, India"
 
     interests = [
-        "Backend Development",
-        "Artificial Intelligence",
-        "Data Analytics",
+        "Frontend Development",
+        "Responsive Web Design",
+        "Cloud Computing",
+        "Software Development",
         "System Design"
     ]
 
-    currently_learning = [
-        "React",
-        "FastAPI",
-        "Machine Learning",
-        "Data Engineering"
-    ]
 
     motto = "Build. Learn. Improve. Repeat."
 ```
@@ -128,26 +123,14 @@ React • TypeScript • FastAPI • PostgreSQL • OpenRouter AI
 
 ---
 
-# 📈 GitHub Stats
 
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=eshrak16&show_icons=true&theme=github_dark)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=eshrak16&theme=github-dark)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=eshrak16&layout=compact&theme=github_dark)
-
-</div>
-
----
 
 # 🎯 2026 Goals
 
 - Build production-grade Full Stack applications
 - Contribute to Open Source
-- Master Data Analytics
-- Learn Machine Learning
+- Master Software Development
+- Learn System Design
 - Solve 300+ DSA problems
 - Land a Software Engineer role
 
