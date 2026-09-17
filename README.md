@@ -8,7 +8,7 @@ Building software that combines clean design, intelligent automation, and scalab
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-000?style=for-the-badge)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-000?style=for-the-badge)](https://portfolio-eshrak16.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/eshraksolkar/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:eshraksolkar16@gmail.com)
 
